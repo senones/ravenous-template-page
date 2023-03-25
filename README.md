@@ -1,2 +1,0 @@
-
-# ravenous-template-page
